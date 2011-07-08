@@ -1,5 +1,5 @@
-Infected Ladder for Survivors:
-	Colorful glowing painpills.
+ladder_for_survivor.vpk:
+  Infected Ladder for Survivors
 
 Version:
   1.0: First Release
