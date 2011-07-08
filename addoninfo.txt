@@ -1,0 +1,27 @@
+"AddonInfo"
+{
+  addontitle "Infected Ladder for Survivors"
+  addonversion 1.0
+  addontagline ""
+  addonauthor "kimoto"
+  addonauthorSteamID "kimoto"
+  addonContent_Campaign 0
+  addonDescription "Infected Ladder for Survivors"
+  addonDescription_FR ""
+
+  addonContent_Script 0
+  addonContent_Music 0
+  addonContent_Sound 0
+  addonContent_prop 0
+  addonContent_Prefab 0
+
+  addonContent_BackgroundMovie 0
+  addonContent_Survivor 0 
+  addonContent_BossInfected 0 
+  addonContent_CommonInfected 0
+  addonContent_WeaponModel 0
+  addonContent_weapon 0
+  addonContent_Skin 1
+  addonContent_Spray 0
+  addonContent_Map 0
+}

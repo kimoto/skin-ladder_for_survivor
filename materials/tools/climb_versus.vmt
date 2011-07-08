@@ -1,0 +1,19 @@
+UnlitGeneric
+{
+  $basetexture "tools\climb"
+  $additive 1
+  "%compileTeam" 2
+  "%compilepassbullets" 1
+  "%compileladder" 1
+
+  $offset 0
+  Proxies
+  {
+    TextureScroll
+    {
+      texturescrollvar $baseTextureTransform
+      texturescrollrate 1
+      texturescrollangle 90.00
+    }
+  }
+}
